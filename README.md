@@ -27,7 +27,7 @@ The Employee Management System is a backend application built using Node.js, Exp
 
     ◾Password hashing with bcrypt
     ◾Environment variables for sensitive credentials
-
+```bash
 📂 Project Structure
 
 Employee_management/
@@ -51,7 +51,7 @@ Employee_management/
 ├── package.json                # Dependencies
 ├── README.md                   # Project Documentation
 └── server.js                   # Entry point
-
+```
 🛠️ Installation & Setup
 
 1️⃣ Clone the Repository
